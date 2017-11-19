@@ -1,0 +1,25 @@
+
+#username{
+    color: brown;
+    font-weight: bold;
+    font-size: 2rem;
+}
+#comment{
+    font-style: oblique;
+    font-size: 1.5rem;
+
+}
+#date{
+    font-style: italic;
+    font-size: 0.9rem;
+    margin-bottom: 3rem;
+}
+#deleteButton{
+    background-color: red;
+    color: white;
+    font-size: 10px;
+    padding: 0 10px;
+    height: 20px;
+    margin-bottom: 0rem;
+    line-height: 10px;
+}

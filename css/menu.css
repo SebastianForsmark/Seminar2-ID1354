@@ -1,0 +1,25 @@
+
+/* MENU */
+
+.menu p
+{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin-right: 80%;
+    padding: 0;
+}
+.menu li {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color :#ffffff;
+    color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.menu li:hover {
+    background-color: #cc6611;
+}

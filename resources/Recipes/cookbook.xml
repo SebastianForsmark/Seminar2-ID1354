@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cookbook version="1">
+    <recipe>
+        <title>Grandma's Swedish Meatballs a lá Grandpa</title>
+        <imagepath>
+            /resources/meatballs.jpg
+        </imagepath>
+        <ingredient>
+            <li>500 grams of ground beef</li>
+            <li>1 whole white onion</li>
+            <li>2 cups mashed potatoes</li>
+            <li>2 dl milk</li>
+            <li>2 tablespoons of salt</li>
+            <li>2 eggs</li>
+            <li>Some brown sauce of unknown origin</li>
+        </ingredient>
+        <recipetext>
+            <li>
+Heat oven to 280°C. Line 30x20cm pan with foil; spray with cooking spray.
+            </li>
+            <li>
+In large bowl, mix all ingredients. Shape mixture into 20 to 24 (eyeball sized) meatballs. Place 2 cm apart in pan.
+            </li>
+            <li>
+Bake uncovered 18 to 22 minutes or until no longer pink in center.
+            </li>
+            <li>
+Throw meatballs violently into the mashed potatoes
+            </li>
+            <li>
+Pour copious amounts of brown sauce over your creation and think about what you've done.
+            </li>
+        </recipetext>
+    </recipe>
+
+    <recipe>
+        <title>Hidden sausage pancake surprise </title>
+        <imagepath>
+            /resources/pancakes.jpg
+        </imagepath>
+        <ingredient>
+            <li>2 uncooked hot dogs</li>
+            <li>4 dl all-purpose flour</li>
+            <li>3 1/2 tsp baking powder</li>
+            <li>1 tsp salt</li>
+            <li>6 tbsp white sugar</li>
+            <li>5 dl milk</li>
+            <li>2 eggs</li>
+            <li>3 1/2 cups butter</li>
+        </ingredient>
+        <recipetext>
+            <li>
+In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.
+            </li>
+            <li>
+Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.
+            </li>
+            <li>
+Place the 2 sausages on top and serve.
+            </li>
+        </recipetext>
+    </recipe>
+</cookbook>
